@@ -1,0 +1,5 @@
+com\geekster\sampleProject\service\StudentService.class
+com\geekster\sampleProject\model\Student.class
+com\geekster\sampleProject\repositories\IStudentRepo.class
+com\geekster\sampleProject\controller\StudentController.class
+com\geekster\sampleProject\SampleProjectApplication.class
